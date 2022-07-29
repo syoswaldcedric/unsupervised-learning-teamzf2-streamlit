@@ -182,4 +182,5 @@ We wish you all the best in your learning experience :rocket:
 
 ![Explore Data Science Academy](resources/imgs/EDSA_logo.png)
 
-Team_zf2 manage this project on (Trello)[https://trello.com/b/dhSiW8P6/zf2-workspace]
+Visit our workspace on [Trello](https://trello.com/b/dhSiW8P6/zf2-workspace).
+For our findings, you can visit the following [Slides](https://www.canva.com/design/DAFHeRXeq8A/alqDi7V99BQ4loqqr-6ToQ/edit?utm_content=DAFHeRXeq8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
