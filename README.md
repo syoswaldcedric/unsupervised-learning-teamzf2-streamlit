@@ -182,6 +182,6 @@ We wish you all the best in your learning experience :rocket:
 
 ![Explore Data Science Academy](resources/imgs/EDSA_logo.png)
 
-Visit our workspace on [Trello](https://trello.com/b/dhSiW8P6/zf2-workspace), to see the workflow
+Visit our team, TeamZF2 workspace on [Trello](https://trello.com/b/dhSiW8P6/zf2-workspace), to see our workflow
 
-For our findings, you can view the following [Slides](https://www.canva.com/design/DAFHeRXeq8A/alqDi7V99BQ4loqqr-6ToQ/edit?utm_content=DAFHeRXeq8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+For our presentation, you can view the following [Slides](https://www.canva.com/design/DAFHeRXeq8A/alqDi7V99BQ4loqqr-6ToQ/edit?utm_content=DAFHeRXeq8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
