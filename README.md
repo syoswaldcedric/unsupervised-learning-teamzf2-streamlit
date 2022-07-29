@@ -181,3 +181,5 @@ This section of the repo will be periodically updated to represent common questi
 We wish you all the best in your learning experience :rocket:
 
 ![Explore Data Science Academy](resources/imgs/EDSA_logo.png)
+
+Team_zf2 manage this project on (Trello)[https://trello.com/b/dhSiW8P6/zf2-workspace]
